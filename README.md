@@ -1,0 +1,1 @@
+请将zip文件拖入我的世界启动器中，Hello Minecraft Launcher启动器无法使用！
